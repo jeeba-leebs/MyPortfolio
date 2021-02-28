@@ -1,0 +1,34 @@
+
+
+<head>
+  
+</head>
+
+<body>
+  
+  <nav id="navbar">
+    <ul>
+      <li><a href="#welcome-section">About</a></li>
+      <li><a href="#projects">Work</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  
+  <div id="welcome-section">
+    <h1>Hi, I'm Greg</h1>
+    <h3>Welcome to my page!</h3>
+  </div>
+  
+  <section id="projects">
+    <div class="project-tile">
+    </div>
+    <div class="project-tile">
+    </div>
+    <div class="project-tile">
+    </div>
+    <div class="project-tile">
+    </div>
+    
+  </section>
+  
+</body>
